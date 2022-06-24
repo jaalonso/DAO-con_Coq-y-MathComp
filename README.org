@@ -1,0 +1,20 @@
+#+TITLE: DAO (demostración asistida por ordenador) con Coq y MathComp
+ 
+Apuntes de demostración asistida por ordenador con [[https://coq.inria.fr/][Coq]] para los cursos de
++ [[http://www.cs.us.es/~jalonso/cursos/m-ra/][Razonamiento automático]] del
+  [[http://master.cs.us.es/Máster_Universitario_en_Lógica,_Computación_e_Inteligencia_Artificial][Máster Universitario en Lógica, computación e inteligencia artificial]]
+  de la [[http://www.us.es][Universidad de Sevilla]].
++ [[http://www.cs.us.es/~jalonso/cursos/lmf/][Lógica matemática y fundamentos]] del
+  [[http://www.us.es/estudios/grados/plan_171?p=7][Grado en Matemáticas]]
+  de la [[http://www.us.es][Universidad de Sevilla]].
+
+* Temas
++ [[./teorias/T1_Computacion.v][Tema 1: Funciones y computación]].
+
+* Referencias
++ [[https://giters.com/anton-trunov/csclub-coq-course-spring-2021][A course on formal verification at CS Club]]. ~ Anton Trunov.
++ [[https://team.inria.fr/marelle/en/coq-winter-school-2018-2019-ssreflect-mathcomp/][Coq Winter School 2018-2019 (SSReflect & MathComp)]]. ~ Yves Bertot, Cyril
+  Cohen, Laurence Rideau, Enrico Tassi y Laurent Thery.
++ [[https://math-comp.github.io/mcb/][Matematical components]]. ~ Assia Mahboubi y Enrico Tassi.
++ [[https://ilyasergey.net/pnp/][Programs and proofs (Mechanizing mathematics with dependent types)]]. ~ Ilya
+  Sergey.
